@@ -1,0 +1,9 @@
+name: "The Adventure of the Binary Ocean"
+description: |
+  **w@t5on**: But, Sherlock, how did you do it?
+  **h0lmes**: Elementary.
+  **w@t5on**: Please explain it to me Holmes.
+  **h0lmes**: Watson, I believe it is time for you to figure this one out by yourself. I can at least give you a place to [start…](http://$static_file_server/bc-b52fc1105dc94504ba4ef4a848907c22/watson)
+  
+  MD5: 710b0e8028cbc017d6607c322f8a1697
+flag: "MCA-60367FFD"
